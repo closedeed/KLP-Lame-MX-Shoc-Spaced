@@ -1,6 +1,6 @@
 "# KLP-Lame-MX-Shoc-Spaced" 
 
-Keycap 17.5 x 16.6mm  from Choc stem from MX 
+Keycaps chos spaced 17.5 x 16.6mm for MX stem
 
 !! Not tested !!
 
